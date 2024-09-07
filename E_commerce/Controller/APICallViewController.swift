@@ -12,7 +12,7 @@ class APICallViewController: UIViewController {
 //                for products in ProductEmodel.products {
 //                    print("Product Title: \(products.title)")
 //                }
-//            case .failure(let error):
+//            case .failure(let error)://qwghjmnbgfdsdcvbnm
 //                print("Error fetching products: \(error.localizedDescription)")
 //            }
 //        }
