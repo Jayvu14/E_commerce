@@ -14,6 +14,7 @@ class APIManager {
             case .failure(let error):
                 completion(.failure(error))
             }
+                                                                   //aswdwqcaqJBX XHBWCHVX HQHHDQWDIDA XD
         }
     }
 }
